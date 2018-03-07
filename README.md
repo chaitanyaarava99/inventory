@@ -30,7 +30,9 @@ updateSell Tab01 2
 report
 
 last command, report will return the report along with profit
-#Output
+
+
+# Output
               	INVENTORY REPORT
 Item Name 	Bought At    	Sold At       	AvailableQty    	Value
 --------- 	---------    	-------       	-----------     	-------
@@ -41,4 +43,3 @@ Tab01     	57.00          	84.98                	96    	5472.00
 ---------------------------------------------------------------------------
 Total value                                                     	10317.06
 Profit since previous report                                      	116.94
-
